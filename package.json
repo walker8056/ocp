@@ -1,6 +1,6 @@
 {
   "name": "ocp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Turn your Claude Pro/Max subscription into an OpenAI-compatible API for your IDEs and devices \u2014 LAN auth, per-key quotas, response cache, disciplined cli.js alignment. $0 extra cost.",
   "main": "src/index.js",
   "scripts": {
